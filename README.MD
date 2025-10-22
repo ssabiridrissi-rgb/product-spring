@@ -11,3 +11,10 @@
 
 <h2>  Classe principale avec des tests CRUD</h2>
 <img src="captures/capture3.png" width="1719" height="843">
+
+<h2>  Création du service REST</h2>
+<img src="captures/capture4.png" width="1719" height="843">
+
+<h2>  Configuration de la base de données H2</h2>
+<img src="captures/capture5.png" width="1719" height="843">
+
